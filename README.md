@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishke kumar.
+- 👋 Hi, I’m Abhishek kumar.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Data Structure and Algorithms.
 - 📫 How to reach me :- AbhiSharmaNIT
